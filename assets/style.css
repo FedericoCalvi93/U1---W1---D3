@@ -1,0 +1,12 @@
+#main {font-size: medium;
+font-family:Arial, Helvetica, sans-serif;}
+.Feature {color: orange; margin-top: 0%; margin-bottom: 0%;}
+.Fresh {text-decoration: underline; margin-top: 0%; margin-bottom: 0%;}
+.Sally {color: lightgray; margin-left: 250px;}
+.Ingredients {font-size:medium;font-style: italic;}
+.Firstlist {margin-top: 10;}
+.border {border-radius: 10px;}
+li {margin-top: 10px; margin-bottom:10px;}
+.Method {font-size: medium;font-style: italic;}
+.Inamedium {list-style-type: none;}
+.Partof {color: green;}
